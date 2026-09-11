@@ -1,7 +1,10 @@
-
 # 🎬 Movie Sentiment Analyzer
 
 A Deep Learning based web application that predicts whether a movie review is **Positive** or **Negative** using a trained **Recurrent Neural Network (RNN)**.
+
+## 🌐 Live Demo
+
+🚀 [Try the Movie Sentiment Analyzer](https://movie-sentiment-rnn-gznddh7denq4jpdfe5fqey.streamlit.app/)
 
 ## 🚀 Features
 
